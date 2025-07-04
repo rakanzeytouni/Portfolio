@@ -1,7 +1,6 @@
 body {
             background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
             color: #f8fafd;
-            font-family: 'Segoe UI', Arial, sans-serif;
             margin: 0;
             min-height: 100vh;
             display: flex;
@@ -99,7 +98,6 @@ footer {
     background: rgba(30,60,114,0.85);
     color: #fff;
     text-align: center;
-    padding: 16px 0 10px 0;
     border-top: 1px solid #2a5298;
     position: fixed;
     left: 0;
